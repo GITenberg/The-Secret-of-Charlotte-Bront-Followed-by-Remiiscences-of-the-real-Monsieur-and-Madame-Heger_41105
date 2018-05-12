@@ -1,0 +1,30 @@
+_repo: The-Secret-of-Charlotte-Bront-Followed-by-Remiiscences-of-the-real-Monsieur-and-Madame-Heger_41105
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41105-h/images/secret-cover.jpg
+creator:
+  author:
+    agent_name: Macdonald, Frederika
+    alias: Richardson, Frederika
+    gutenberg_agent_id: '40977'
+    url: http://www.gutenberg.org/2009/agents/40977
+description: ''
+gutenberg_issued: '2012-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41105'
+  lccn: '14012240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heger, Zoë, 1804-1887'
+- !lcsh 'Brontë, Charlotte, 1816-1855'
+- !lcc 'PR'
+- !lcsh 'Heger, Constantin-Georges, 1809-1896'
+title: 'The Secret of Charlotte Brontë
+
+  Followed by Remiiscences of the real Monsieur and Madame Heger'
+url: http://www.gutenberg.org/ebooks/41105
